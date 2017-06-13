@@ -49,6 +49,7 @@ Puedes consultar los slides [aquí](https://github.com/PythonDayMX/Twitterbot_en
 * [Python 3.x](https://www.python.org)
 * [Tweepy](http://www.tweepy.org)
 
+-----
 
 ## UPDATES! :octocat: :+1: :tada:
 
@@ -58,4 +59,3 @@ Puedes consultar los slides [aquí](https://github.com/PythonDayMX/Twitterbot_en
 ##### Video del taller:
 [![Crea un Twitterbot en 30 minutos](http://img.youtube.com/vi/x0VWnm9CAyE/0.jpg)](http://www.youtube.com/watch?v=x0VWnm9CAyE)
 
------
