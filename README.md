@@ -10,7 +10,7 @@
 
 
 -----
-![Twitterbot](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/blob/master/img.png)
+![Twitterbot](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/img.png)
 
 # ¡Crea un Twitterbot en 30 minutos! 🤖
 
@@ -50,10 +50,10 @@ Puedes consultar los slides [aquí](https://github.com/PythonDayMX/Twitterbot_en
 * [Tweepy](http://www.tweepy.org)
 
 
-## UPDATES! 
+## 😎 UPDATES! 
 
 ##### Foto en el evento:
-![Rodolfo Ferro](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/blob/master/01.jpg)
+![Rodolfo Ferro](https://github.com/RodolfoFerro/Twitterbot_en_30/blob/master/01.jpg)
 
 ##### Video del taller:
 [![Crea un Twitterbot en 30 minutos](http://img.youtube.com/vi/x0VWnm9CAyE/0.jpg)](http://www.youtube.com/watch?v=x0VWnm9CAyE)
