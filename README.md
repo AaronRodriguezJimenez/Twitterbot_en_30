@@ -5,7 +5,8 @@
 > **Correo:** [ferro@cimat.mx](mailto:ferro@cimat.mx)<br/>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)<br/>
 > **Github:** [RodolfoFerro](https://github.com/RodolfoFerro)<br/>
-> **Slides:** [¡Click aquí!](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/Twitterbot%20en%2030.pdf)
+> **Slides:** [¡Click aquí!](https://github.com/PythonDayMX/Twitterbot_en_30/blob/master/Twitterbot%20en%2030.pdf)<br/>
+> **Video del taller:** [¡Click aquí!](https://www.youtube.com/watch?v=x0VWnm9CAyE)
 
 
 -----
@@ -48,5 +49,13 @@ Puedes consultar los slides [aquí](https://github.com/PythonDayMX/Twitterbot_en
 * [Python 3.x](https://www.python.org)
 * [Tweepy](http://www.tweepy.org)
 
+
+## UPDATES! 
+
+##### Foto en el evento:
+![Rodolfo Ferro](https://github.com/PythonDayMX/Crea_un_Twitterbot_en_30_minutos/blob/master/me.jpg)
+
+##### Video del taller:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0VWnm9CAyE" frameborder="0" allowfullscreen></iframe>
 
 -----
